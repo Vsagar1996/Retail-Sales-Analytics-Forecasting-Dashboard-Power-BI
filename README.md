@@ -61,7 +61,6 @@ It represents historical retail sales transactions and was used solely for **edu
 
 1.  Executive Sales Overview
     
-    **Page Preview:**
     <img src="Images/Page 1 - Executive Sales Overview.JPG" width="900"/>
 
     - KPI cards for Sales, Profit, Margin, Discount
@@ -70,7 +69,9 @@ It represents historical retail sales transactions and was used solely for **edu
 
     - State-wise performance map with profitability insights
 
-3.  Product Performance Analysis
+2.  Product Performance Analysis
+
+    <img src="Images/Page 2 - Product Performance Analysis.JPG" width="900"/>
 
     - Sales & Profit by product type
 
@@ -78,7 +79,9 @@ It represents historical retail sales transactions and was used solely for **edu
 
     - Detailed performance table with conditional formatting
 
-4.  Customer & Segment Insights
+3.  Customer & Segment Insights
+
+    <img src="Images/Page 3 - Customer & Segment Insights.JPG" width="900"/>
 
     - Sales distribution by customer segment
 
@@ -86,7 +89,9 @@ It represents historical retail sales transactions and was used solely for **edu
 
     - Top-performing segments by sales and profit
 
-5.  Logistics & Operations Analysis
+4.  Logistics & Operations Analysis
+
+    <img src="Images/Page 4 - Logistics & Operations Analysis.JPG" width="900"/>
 
     - Average delivery time by freight mode
 
@@ -94,7 +99,9 @@ It represents historical retail sales transactions and was used solely for **edu
 
     - Scatter analysis of freight cost vs profit
 
-6. Sales & Profit Forecast
+5. Sales & Profit Forecast
+
+   <img src="Images/Page 5 - Sales & Profit Forecast.JPG" width="900"/>
 
     - Monthly sales and profit trends
 
