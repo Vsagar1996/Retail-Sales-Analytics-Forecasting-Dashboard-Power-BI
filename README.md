@@ -62,7 +62,7 @@ It represents historical retail sales transactions and was used solely for **edu
 1.  Executive Sales Overview
     
     **Page Preview:**
-    <img src="Images/Page 1 - Executive Sales Overview.jpeg" width="900"/>
+    <img src="Images/Page 1 - Executive Sales Overview.JPG" width="900"/>
 
     - KPI cards for Sales, Profit, Margin, Discount
 
