@@ -131,14 +131,6 @@ It represents historical retail sales transactions and was used solely for **edu
 
 - Improving report usability through formatting and storytelling
 
-### Dashboard Preview:
-
-(Add screenshots of each page here)
-
-📁 #### File
-
-Sales_dashboard.pbix
-
 ### Future Work & Enhancements:
 
 1. Extend the current Power BI forecasting by exploring advanced machine learning–based time series models such as ARIMA or Prophet for improved accuracy.
