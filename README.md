@@ -60,7 +60,7 @@ It represents historical retail sales transactions and was used solely for **edu
 ### Dashboard Pages:
 
 1.  Executive Sales Overview
-    Preview: <img src="images/Page 1 - Executive Sales Overview.jpeg" width="900"/>
+    Preview: ![Product Performance Overview](images/Page 1 - Executive Sales Overview.jpeg)
 
     - KPI cards for Sales, Profit, Margin, Discount
 
