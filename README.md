@@ -61,43 +61,43 @@ It represents historical retail sales transactions and was used solely for **edu
 
 1.  Executive Sales Overview
 
-  - KPI cards for Sales, Profit, Margin, Discount
+    - KPI cards for Sales, Profit, Margin, Discount
 
-  - Sales & Profit trend over time
+    - Sales & Profit trend over time
 
-  - State-wise performance map with profitability insights
+    - State-wise performance map with profitability insights
 
 2.  Product Performance Analysis
 
-  - Sales & Profit by product type
+    - Sales & Profit by product type
 
-  - Loss-making sub-category identification
+    - Loss-making sub-category identification
 
-  - Detailed performance table with conditional formatting
+    - Detailed performance table with conditional formatting
 
 3.  Customer & Segment Insights
 
-  - Sales distribution by customer segment
+    - Sales distribution by customer segment
 
-  - Quantity vs Profit analysis
+    - Quantity vs Profit analysis
 
-  - Top-performing segments by sales and profit
+    - Top-performing segments by sales and profit
 
 4.  Logistics & Operations Analysis
 
-  - Average delivery time by freight mode
+    - Average delivery time by freight mode
 
-  - Profitability by freight mode
+    - Profitability by freight mode
 
-  - Scatter analysis of freight cost vs profit
+    - Scatter analysis of freight cost vs profit
 
 5. Sales & Profit Forecast
 
-  - Monthly sales and profit trends
+    - Monthly sales and profit trends
 
-  - 6-month forecast using Power BI built-in forecasting
+    - 6-month forecast using Power BI built-in forecasting
 
-  - Average monthly sales KPI for baseline comparison
+    - Average monthly sales KPI for baseline comparison
 
  ### Tools & Technologies
 
@@ -111,15 +111,15 @@ It represents historical retail sales transactions and was used solely for **edu
 
  ### Key Learnings:
 
-1. Designing interview-ready star schema models
+- Designing interview-ready star schema models
 
-2. Writing optimized and reusable DAX measures
+-  Writing optimized and reusable DAX measures
 
-3. Building business-driven dashboards
+- Building business-driven dashboards
 
-4. Applying forecasting for trend analysis
+- Applying forecasting for trend analysis
 
-4. Improving report usability through formatting and storytelling
+- Improving report usability through formatting and storytelling
 
 ### Dashboard Preview:
 
