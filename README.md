@@ -128,3 +128,11 @@ It represents historical retail sales transactions and was used solely for **edu
 📁 #### File
 
 Sales_dashboard.pbix
+
+### Future Work & Enhancements:
+
+1. Extend the current Power BI forecasting by exploring advanced machine learning–based time series models such as ARIMA or Prophet for improved accuracy.
+
+2. Introduce what-if analysis to simulate the impact of discounts, freight costs, and pricing strategies on profitability.
+
+3. Enhance interactivity using drillthrough pages, tooltip reports, and guided narratives.
