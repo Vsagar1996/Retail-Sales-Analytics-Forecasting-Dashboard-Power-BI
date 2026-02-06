@@ -12,9 +12,7 @@ The project follows industry best practices including a star schema data model, 
 The dataset used in this project was sourced from **Kaggle**, a public data science platform.  
 It represents historical retail sales transactions and was used solely for **educational and portfolio purposes**.
 
-### Project Files:
-
-- [INDIA_RETAIL_DATA.csv](INDIA%20RETAIL%20DATA.csv) – Dataset used
+Dataset - [INDIA_RETAIL_DATA.csv](INDIA_RETAIL_DATA.csv)
   
 ### Business Objectives:
 
