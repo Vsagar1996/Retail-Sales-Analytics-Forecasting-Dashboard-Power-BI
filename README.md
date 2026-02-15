@@ -1,4 +1,4 @@
-## Retail Sales Analytics & Forecasting Dashboard (Power BI)
+## Retail Sales Analytics & Forecasting Dashboard – Power BI
 
 ### Project Overview:
 
